@@ -1,8 +1,6 @@
 package compression
 
 import (
-	// "crypto/ecdh"
-
 	"strconv"
 	"strings"
 )
