@@ -34,7 +34,7 @@ func RunLengthEncode(input string) string {
 	return encoded.String()
 }
 
-// RunLengthDecode decodedes 'encoded' and returns 'decoded'
+// RunLengthDecode decodes 'encoded' and returns 'decoded'
 func RunLengthDecode(encoded string) string {
 	var decoded strings.Builder
 
